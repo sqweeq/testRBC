@@ -25,7 +25,7 @@ export default function App() {
 
     const newFiltered = allStocks.filter((item) =>
       filterSymbol !== ""
-        ? item.symbol === filterSymbol
+        ? item.symbol === filterSymbol.toUpperCase()
         : item.regularMarketPrice.raw > Number(filterMin) &&
           item.regularMarketPrice.raw < Number(filterMax)
     );
