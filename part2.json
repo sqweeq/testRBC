@@ -1,0 +1,122 @@
+[
+  {
+    "symbol": "NIO",
+    "shortName": "NIO Inc.",
+    "regularMarketPrice": { "raw": 23.175, "fmt": "23.17" }
+  },
+  {
+    "symbol": "AMD",
+    "shortName": "Advanced Micro Devices, Inc.",
+    "regularMarketPrice": { "raw": 86.0287, "fmt": "86.03" }
+  },
+  {
+    "symbol": "AAPL",
+    "shortName": "Apple Inc.",
+    "regularMarketPrice": { "raw": 142.2, "fmt": "142.20" }
+  },
+  {
+    "symbol": "AMZN",
+    "shortName": "Amazon.com, Inc.",
+    "regularMarketPrice": { "raw": 114.05, "fmt": "114.05" }
+  },
+  {
+    "symbol": "CCL",
+    "shortName": "Carnival Corporation",
+    "regularMarketPrice": { "raw": 10.295, "fmt": "10.30" }
+  },
+  {
+    "symbol": "GRAB",
+    "shortName": "Grab Holdings Limited",
+    "regularMarketPrice": { "raw": 2.735, "fmt": "2.7350" }
+  },
+  {
+    "symbol": "NVDA",
+    "shortName": "NVIDIA Corporation",
+    "regularMarketPrice": { "raw": 168.4, "fmt": "168.40" }
+  },
+  {
+    "symbol": "PLTR",
+    "shortName": "Palantir Technologies Inc.",
+    "regularMarketPrice": { "raw": 9.615, "fmt": "9.61" }
+  },
+  {
+    "symbol": "AMC",
+    "shortName": "AMC Entertainment Holdings, Inc",
+    "regularMarketPrice": { "raw": 13.2121, "fmt": "13.21" }
+  },
+  {
+    "symbol": "TSLA",
+    "shortName": "Tesla, Inc.",
+    "regularMarketPrice": { "raw": 740.275, "fmt": "740.28" }
+  },
+  {
+    "symbol": "BABA",
+    "shortName": "Alibaba Group Holding Limited",
+    "regularMarketPrice": { "raw": 118.46, "fmt": "118.46" }
+  },
+  {
+    "symbol": "F",
+    "shortName": "Ford Motor Company",
+    "regularMarketPrice": { "raw": 11.975, "fmt": "11.98" }
+  },
+  {
+    "symbol": "SNAP",
+    "shortName": "Snap Inc.",
+    "regularMarketPrice": { "raw": 14.625, "fmt": "14.62" }
+  },
+  {
+    "symbol": "SWN",
+    "shortName": "Southwestern Energy Company",
+    "regularMarketPrice": { "raw": 6.995, "fmt": "6.99" }
+  },
+  {
+    "symbol": "TME",
+    "shortName": "Tencent Music Entertainment Gro",
+    "regularMarketPrice": { "raw": 4.935, "fmt": "4.9350" }
+  },
+  {
+    "symbol": "ITUB",
+    "shortName": "Itau Unibanco Banco Holding SA",
+    "regularMarketPrice": { "raw": 4.4642, "fmt": "4.4642" }
+  },
+  {
+    "symbol": "NLY",
+    "shortName": "Annaly Capital Management Inc",
+    "regularMarketPrice": { "raw": 6.305, "fmt": "6.30" }
+  },
+  {
+    "symbol": "RBLX",
+    "shortName": "Roblox Corporation",
+    "regularMarketPrice": { "raw": 34.24, "fmt": "34.24" }
+  },
+  {
+    "symbol": "BAC",
+    "shortName": "Bank of America Corporation",
+    "regularMarketPrice": { "raw": 31.98, "fmt": "31.98" }
+  },
+  {
+    "symbol": "VALE",
+    "shortName": "VALE S.A.",
+    "regularMarketPrice": { "raw": 14.845, "fmt": "14.85" }
+  },
+  {
+    "symbol": "HOOD",
+    "shortName": "Robinhood Markets, Inc.",
+    "regularMarketPrice": { "raw": 7.99, "fmt": "7.99" }
+  },
+  {
+    "symbol": "PBR",
+    "shortName": "Petroleo Brasileiro S.A.- Petro",
+    "regularMarketPrice": { "raw": 11.585, "fmt": "11.59" }
+  },
+  {
+    "symbol": "ABEV",
+    "shortName": "Ambev S.A.",
+    "regularMarketPrice": { "raw": 2.575, "fmt": "2.5750" }
+  },
+  {
+    "symbol": "NOK",
+    "shortName": "Nokia Corporation Sponsored",
+    "regularMarketPrice": { "raw": 4.815, "fmt": "4.8150" }
+  }
+]
